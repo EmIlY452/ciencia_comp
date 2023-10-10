@@ -1,0 +1,53 @@
+header{
+   background-color: rgb(20, 1, 1);
+   display: flex; 
+   font-size: 2em;
+   color:aliceblue;
+   width: 100%;
+   height: auto;
+   text-align: center;
+   justify-content: space-between;
+   
+}
+
+
+.logotipo{ 
+   width: 100px;
+   height: 100px;
+   padding: 5px;
+   margin: 05px;
+}
+.titulo_smart{
+color: aliceblue;
+font-size: 60px;
+
+
+}
+.botao_login{
+  width: 80px;;
+  height: 60px;
+  background-color: #effcf1;
+  border-radius: 10px;
+  border: none;
+  color: #b85c5c;
+  padding: 10px 20px;
+  text-align: right;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 10px 29px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-image: linear-gradient(to battom, #5aa15e, #adca5d);
+}
+
+.botao_login:hover{
+  background-color: white;
+  color: black;
+  box-shadow: 0px 8px 16px rgba(209, 192, 192, 0.2);
+}
+
+
+
+
+
+  
